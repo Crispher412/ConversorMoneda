@@ -1,0 +1,1 @@
+El programa en primera instancia te pregunta qué conversión quieres hacer entre las más famosas como lo son las divisas de el dolar, la libra esterlina, el euro y el Yuan japonés, una vez elijas la conversión digitas la cantidad que deceas y el programa te arroja el dato
